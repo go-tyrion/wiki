@@ -11,6 +11,14 @@
 
 ### redis
 
+### kafka
+
+- [sarama](https://github.com/Shopify/sarama)
+- [sarama-cluster](https://github.com/bsm/sarama-cluster)
+- [confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go)
+- [goka](https://github.com/lovoo/goka)
+- [kafka-go](https://github.com/segmentio/kafka-go) 这里介绍以上三者的优缺点
+
 ### cache
 
 - [go-cache](https://github.com/patrickmn/go-cache)
